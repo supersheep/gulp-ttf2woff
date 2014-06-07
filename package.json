@@ -28,7 +28,7 @@
     "test": "mocha tests/*.mocha.js"
   },
   "dependencies": {
-    "ttf2woff": "https://github.com/supersheep/ttf2woff.git",
+    "ttf2woff": "https://github.com/supersheep/ttf2woff/tarball/master",
     "gulp-util": "~2.2.15",
     "bufferstreams": "0.0.2",
     "readable-stream": "^1.0.27-1"
